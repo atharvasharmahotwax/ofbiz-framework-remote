@@ -1,4 +1,4 @@
-plugins/
+/plugins/
 bin/
 build/
 applications/*/build
